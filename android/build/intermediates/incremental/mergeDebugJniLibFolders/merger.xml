@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/elex/Desktop/1/test/node_modules/react-native-rhspeech/android/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/elex/Desktop/1/test/node_modules/react-native-rhspeech/android/src/debug/jniLibs"/></dataSet></merger>
